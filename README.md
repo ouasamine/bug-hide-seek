@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# PortFolio
+# Bugs Hide & Seek
 
-> This is a Demo project, where I put a tiny javascript bug in the js/script.js file, if you could find the bug please create a new [issue](../../issues/) describing the bug 
+> This is a Demo project, where I put a tiny javascript bug in the js/script.js file, if you could find the bug please create a new [issue](../../issues/) describing the bug. Good luck 😅
 
 
 ## Built With
